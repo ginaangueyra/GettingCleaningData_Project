@@ -8,7 +8,7 @@ tidy data. To achive that purpose you can follow the following easy steps:
 ### Identifying included files:
 
 
-- **README.txt**: This file.
+- **README.md**: This file.
 
 - **run_analysis.R**: Describes the logical steps to follow in order to complete the 
 assignment. Contain the calls to the functions that actually do the calculus.
